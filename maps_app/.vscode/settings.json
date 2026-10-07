@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "editor.defaultFormatter": "Dart-Code.flutter",
+    "notebook.defaultFormatter": "Dart-Code.flutter",
+    "editor.formatOnSave": true
+}
